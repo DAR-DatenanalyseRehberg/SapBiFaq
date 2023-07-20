@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Squir/static/css/main.2777b014.css",
+    "main.js": "/Squir/static/js/main.5163a4df.js",
+    "static/js/787.69e79d12.chunk.js": "/Squir/static/js/787.69e79d12.chunk.js",
+    "index.html": "/Squir/index.html",
+    "main.2777b014.css.map": "/Squir/static/css/main.2777b014.css.map",
+    "main.5163a4df.js.map": "/Squir/static/js/main.5163a4df.js.map",
+    "787.69e79d12.chunk.js.map": "/Squir/static/js/787.69e79d12.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2777b014.css",
+    "static/js/main.5163a4df.js"
+  ]
+}
